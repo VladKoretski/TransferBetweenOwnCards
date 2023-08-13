@@ -1,5 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ve816n3c2lviiupn/branch/master?svg=true)](https://ci.appveyor.com/project/VladKoretski/transferbetweenowncards/branch/master)  
-* Описание бага в Issue *
+[![Build status](https://ci.appveyor.com/api/projects/status/ve816n3c2lviiupn/branch/master?svg=true)](https://ci.appveyor.com/project/VladKoretski/transferbetweenowncards/branch/master) ** Описание бага в Issue **  
 
 
 # Домашнее задание к занятию «2.4. BDD»
