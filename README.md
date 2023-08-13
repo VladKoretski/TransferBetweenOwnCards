@@ -1,6 +1,5 @@
-[![Java CI with Gradle](https://github.com/VladKoretski/TransferBetweenOwnCards/actions/workflows/gradle.yml/badge.svg)](https://github.com/VladKoretski/TransferBetweenOwnCards/actions/workflows/gradle.yml)  
+[![Java CI with Gradle](https://github.com/VladKoretski/TransferBetweenOwnCards/actions/workflows/gradle.yml/badge.svg)](https://github.com/VladKoretski/TransferBetweenOwnCards/actions/workflows/gradle.yml) **Описание бага в Issue**  
 
-**Описание бага в Issue**  
 # Домашнее задание к занятию «2.4. BDD»
 
 В качестве результата пришлите ссылки на ваши GitHub-проекты в личном кабинете студента на сайте [netology.ru](https://netology.ru).
