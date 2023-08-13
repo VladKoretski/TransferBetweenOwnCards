@@ -1,6 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ve816n3c2lviiupn/branch/master?svg=true)](https://ci.appveyor.com/project/VladKoretski/transferbetweenowncards/branch/master) **Описание бага в Issue**  
-
-
+[![Build status](https://ci.appveyor.com/api/projects/status/wm0eqn4d5jy24u8c/branch/master?svg=true)](https://ci.appveyor.com/project/VladKoretski/transferbetweenowncards-o06mk/branch/master)  
+**Описание бага в Issue**  
 # Домашнее задание к занятию «2.4. BDD»
 
 В качестве результата пришлите ссылки на ваши GitHub-проекты в личном кабинете студента на сайте [netology.ru](https://netology.ru).
