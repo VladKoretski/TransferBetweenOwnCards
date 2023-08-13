@@ -24,7 +24,7 @@ public class TransferMoneyTest {
     }
 
     @Test
-    @DisplayName("Should successfully transfer money between amounts 1->2")
+    @DisplayName("Should successfully transfer money between accounts 1->2")
     void shouldTransferFromFirstToSecond() {
         var firstCardInfo = getFirstCardInfo();
         var secondCardInfo = getSecondCardInfo();
@@ -43,7 +43,7 @@ public class TransferMoneyTest {
     }
 
     @Test
-    @DisplayName("Should successfully transfer money between amounts 2->1")
+    @DisplayName("Should successfully transfer money between accounts 2->1")
     void shouldTransferFromSecondToFirst() {
         var firstCardInfo = getFirstCardInfo();
         var secondCardInfo = getSecondCardInfo();
