@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/wm0eqn4d5jy24u8c/branch/master?svg=true)](https://ci.appveyor.com/project/VladKoretski/transferbetweenowncards-o06mk/branch/master)  
+[![Java CI with Gradle](https://github.com/VladKoretski/TransferBetweenOwnCards/actions/workflows/gradle.yml/badge.svg)](https://github.com/VladKoretski/TransferBetweenOwnCards/actions/workflows/gradle.yml)  
 **Описание бага в Issue**  
 # Домашнее задание к занятию «2.4. BDD»
 
