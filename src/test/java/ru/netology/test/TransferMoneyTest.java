@@ -76,9 +76,8 @@ public class TransferMoneyTest {
         var actualBalanceFirstCard = dashboardPage.getCardBalance(firstCardInfo);
         var actualBalanceSecondCard = dashboardPage.getCardBalance(secondCardInfo);
 
-      //  assertEquals(firstCardBalance, actualBalanceFirstCard);
-       // assertEquals(secondCardBalance, actualBalanceSecondCard);
-        Assertions.assertTrue(actualBalanceFirstCard<0);
+        assertEquals(firstCardBalance, actualBalanceFirstCard);
+        assertEquals(secondCardBalance, actualBalanceSecondCard);
     }
 
     @Test
